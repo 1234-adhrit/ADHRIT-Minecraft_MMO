@@ -1,5 +1,11 @@
-# I I added this for.... fun 
+# I made this for.... fun 
 :)
+
+## Credits
+
+@griffpatch
+
+- https://scratch.mit.edu/users/griffpatch/
 
 ## Play Online
 
