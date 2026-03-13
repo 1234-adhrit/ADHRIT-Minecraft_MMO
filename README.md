@@ -1,7 +1,7 @@
 # I made this for.... fun 
 :)
 
-## Credits
+## credits
 
 @griffpatch
 
